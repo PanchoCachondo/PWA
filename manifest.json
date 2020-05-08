@@ -1,0 +1,23 @@
+{
+	"name": "Paseme Prof",
+	"short_name": "MI PWA",
+	"background_color": "#2B2B2B",
+	"theme_color": "#F0DB4F",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./?utm_sourse-web_app_manifest",
+	"scope": "./",
+	"lang": "es-MX",
+	"icons":[
+	{
+		"src":"./img.png",
+		"sizes":"144x144",
+		"type": "image/png"
+		},
+	{
+		"src":"./pk.png",
+		"sizes":"64x64",
+		"type": "image/png"
+		}
+	]
+}
